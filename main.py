@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 #TODO ...van hogy elektródaszámmal van jelezve, ezt lekezelni.
 #TODO: topo filet is nyomja ki egyben a prosyshez
 #TODO: ha a file EOVben van x-y megcserélni
-line_nr = "13" #ÁTÍRNI A MEGFELELŐ NÉVRE
+line_nr = "12" #ÁTÍRNI A MEGFELELŐ NÉVRE
 electrode_distance = 1
 """filepath = r'D:\Gergo\Projektek\2022_002_TokajIP\ip_' + line_nr + r'\mad_ip_' + \
             line_nr + r'_gps_input.txt'
