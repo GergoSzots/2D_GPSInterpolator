@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
-#read in the text file which contains electr.num and its coordinates
-#TODO: 1. filepath megcsinálni, 2. beolvasni a nyers adatot, vesszős, 3. van h méterben van az elektróda...
-#TODO ...van hogy elektródaszámmal van jelezve, ezt lekezelni.
+
+#read in the text file which contains electr.num and its coordinates...
+#...see uploaded test file "ert_line_01_gps_input.txt"
 
 line_nr = "01" #the name of the ERT line
 electrode_distance = 1 #electrode distance used in the measurement
